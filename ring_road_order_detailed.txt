@@ -1,0 +1,2098 @@
+RED ROCKS RING ROAD CLIMB ORDER - DETAILED
+============================================================
+
+ANALYSIS OVERVIEW:
+=================
+This detailed list shows all 1,000 climbing routes organized by area,
+listed in the order you encounter them driving the Red Rocks Scenic Loop.
+
+SCORING METHODOLOGY:
+===================
+Each area has been scored based on climbing preferences for 5.7-5.10 climbers:
+
+POINTS PER ROUTE:
+- Base points: +1 for every climb
+- Difficulty bonus: +2 for 5.7-5.10 grades, +1 for easier grades, +0 for harder
+- Route type bonus: +1 for sport routes, -1 for multi-pitch, +0 for trad
+- Star rating: +1 point per star (0-4 stars average)
+
+ROUTE TYPE LEGEND:
+- (T) = Traditional climbing (gear protection)
+- (S) = Sport climbing (bolt protection)  
+- (M) = Mixed or other route types
+
+GRADE CATEGORIES:
+- 5.0-5.6: Beginner
+- 5.7-5.8: Intermediate (target sweet spot)
+- 5.9-5.10: Advanced (target sweet spot)
+- 5.11+: Expert level
+
+AREA INFORMATION INCLUDES:
+- Total route count and area score
+- Trad vs Sport route breakdown  
+- Ring road position (degrees from center)
+- GPS coordinates for area center
+- Complete route list for each area
+
+============================================================
+
+All climbing routes organized by area, in ring road order:
+
+ 1. Challenger Wall (Pine Creek Canyon)
+    Total Routes: 2
+    Ring Position: 2.8�
+    Average Coordinates: 36.11870, -115.49655
+    All Routes:
+      - Explorer
+      - Lost in Space
+
+ 2. Jungle Wall (Juniper Canyon)
+    Total Routes: 20 | Score: 108.2 (Rank #4)
+    Route Types: 15 Trad, 3 Sport, 2 Other
+    Grade Breakdown: 5 routes (5.7-5.8), 10 routes (5.9-5.10), 2 routes (5.11)
+    Ring Position: 6.4°
+    Average Coordinates: 36.11776, -115.48996
+    All Routes:
+      - Aye-Aye Cap'n
+      - Bear Necessities
+      - Black Rose (AKA Emerald Forest)
+      - Bush Pig
+      - Canopy Crack
+      - Catamount
+      - Jorge of the Jungle
+      - Jungle Gym
+      - Jungle Rot
+      - Jungle Wall
+      - Left Edge
+      - Little Britches
+      - Mowgli
+      - Strangler Fig
+      - The Monkey King
+      - The Panther
+      - The Puma
+      - The Shwack
+      - Toothless Tiger
+      - Vanilla Gorilla
+
+ 3. Rose Tower (Juniper Canyon)
+    Total Routes: 4
+    Ring Position: 6.9�
+    Average Coordinates: 36.11780, -115.48805
+    All Routes:
+      - Brother Bill's Great Thrill
+      - Canola Crack - Left
+      - Canola Crack - Right
+      - Rose Tower | 4275
+
+ 4. Tattle Tale Gully (Juniper Canyon)
+    Total Routes: 2
+    Ring Position: 9.7�
+    Average Coordinates: 36.11680, -115.48865
+    All Routes:
+      - Clear Cut
+      - Killjoy
+
+ 5. Bullnose Wall (Pine Creek Canyon)
+    Total Routes: 3
+    Ring Position: 10.0�
+    Average Coordinates: 36.11362, -115.50611
+    All Routes:
+      - Diarrhea Dialect
+      - Enter the Arena
+      - The Bullnose Roof
+
+ 6. Aquarium Wall (Juniper Canyon)
+    Total Routes: 2
+    Ring Position: 10.7�
+    Average Coordinates: 36.11653, -115.48831
+    All Routes:
+      - Balsamic
+      - The Not Very Enjoyable Corner
+
+ 7. Brownstone Wall (Juniper Canyon)
+    Total Routes: 6
+    Ring Position: 11.4�
+    Average Coordinates: 36.11483, -115.49570
+    All Routes:
+      - Chocolate and Cheese
+      - Corruption of the Jesuit
+      - Immaculate Conception
+      - J + J Swerve
+      - Kentucky's Finest
+      - Voodoo Lady
+
+ 8. Jackrabbit Buttress (Juniper Canyon)
+    Total Routes: 7
+    Ring Position: 13.6�
+    Average Coordinates: 36.11526, -115.48953
+    All Routes:
+      - Cottontail
+      - Don't Touch That in Front of Grandma
+      - Juggernaut
+      - Senior Discount
+      - Tan Clam
+      - The Black Pearl
+      - The Minerva
+
+ 9. North Face of Rainbow Mountain (Juniper Canyon)
+    Total Routes: 2
+    Ring Position: 16.1�
+    Average Coordinates: 36.11204, -115.49766
+    All Routes:
+      - North Face of Rainbow Mountain
+      - Smokescreen
+
+10. Cloud Tower (Juniper Canyon)
+    Total Routes: 2
+    Ring Position: 21.8�
+    Average Coordinates: 36.11237, -115.48908
+    All Routes:
+      - Black and Tan
+      - Far Side, The
+
+11. Ginger Buttress (Juniper Canyon)
+    Total Routes: 4
+    Ring Position: 23.3�
+    Average Coordinates: 36.11213, -115.48829
+    All Routes:
+      - Cumin Trafficking
+      - Fist or Flips
+      - Ginger Crack Variation Finish (Der Guberbaum)
+      - Jack's Lament
+
+12. Black Orpheus Amphitheater (Oak Creek Canyon)
+    Total Routes: 2
+    Ring Position: 40.5�
+    Average Coordinates: 36.10256, -115.49045
+    All Routes:
+      - Offset Corners
+      - The Secret World of Arrietty
+
+13. Rainbow Mountain - East Face (Oak Creek Canyon)
+    Total Routes: 8
+    Ring Position: 41.1�
+    Average Coordinates: 36.10679, -115.48516
+    All Routes:
+      - Beelzebub
+      - Da Boneyard
+      - Little Brown
+      - Pure Snark
+      - Rockingstone Groove
+      - The Growler
+      - Tickled Pink
+      - Wise Guys Off Size
+
+14. Solar Slab - Lower Tier (Oak Creek Canyon)
+    Total Routes: 5
+    Ring Position: 44.8�
+    Average Coordinates: 36.10333, -115.48677
+    All Routes:
+      - Corona
+      - Dubious Flirtations
+      - The Pamphlet
+      - Unknown
+      - Unknown
+
+15. The Friar and Byrd Pinnacle (Oak Creek Canyon)
+    Total Routes: 9
+    Ring Position: 46.1�
+    Average Coordinates: 36.10394, -115.48544
+    All Routes:
+      - Boondoggle
+      - Byrd Pinnacle Left
+      - J + J Groove
+      - The A Crack
+      - Unknown
+      - V Formation
+      - Wrangler Hero?
+      - Xyphoid Fever
+      - Xyphoid Left
+
+16. Afterburner Wall (Cactus Flower Tower)
+    Total Routes: 1
+    Ring Position: 47.5�
+    Average Coordinates: 36.10088, -115.48749
+    All Routes:
+      - Eliminator
+
+17. Blood Wall (Cactus Flower Tower)
+    Total Routes: 3
+    Ring Position: 51.7�
+    Average Coordinates: 36.09804, -115.48736
+    All Routes:
+      - Bad Blood
+      - Blood Meridian
+      - Slow Bleed
+
+18. The Triad (Cactus Flower Tower)
+    Total Routes: 7
+    Ring Position: 51.9�
+    Average Coordinates: 36.10052, -115.48527
+    All Routes:
+      - Beauty
+      - The Forgotten
+      - The Ugly Sister
+      - Truth
+      - Vegabondage
+      - Virtue
+      - Wisdom
+
+19. Horseshoe Wall (Mount Wilson)
+    Total Routes: 1
+    Ring Position: 66.9�
+    Average Coordinates: 36.09221, -115.48184
+    All Routes:
+      - Dogma
+
+20. Lower East Side (Mount Wilson)
+    Total Routes: 2
+    Ring Position: 70.6�
+    Average Coordinates: 36.09263, -115.47962
+    All Routes:
+      - Lim�n
+      - Sal
+
+21. Basin Wall and Outlaw Wall (Mount Wilson)
+    Total Routes: 1
+    Ring Position: 71.6�
+    Average Coordinates: 36.08774, -115.48075
+    All Routes:
+      - The Ruckus
+
+22. Strawberry Hill Buttress (First Creek Canyon)
+    Total Routes: 2
+    Ring Position: 73.6�
+    Average Coordinates: 36.08014, -115.48175
+    All Routes:
+      - Banjo Boys
+      - Guitar Man
+
+23. Bearclaw Spire (First Creek Canyon)
+    Total Routes: 3
+    Ring Position: 75.0�
+    Average Coordinates: 36.08264, -115.47998
+    All Routes:
+      - Playing on Credit
+      - Wedged and Hedged
+      - Wellington finds Walloon Brabant
+
+24. Lower Slot Club Wall (First Creek Canyon)
+    Total Routes: 1
+    Ring Position: 76.8�
+    Average Coordinates: 36.08101, -115.47918
+    All Routes:
+      - Relapse Prevention
+
+25. First Creek Slabs (First Creek Canyon)
+    Total Routes: 3
+    Ring Position: 77.1�
+    Average Coordinates: 36.07962, -115.47926
+    All Routes:
+      - Bad Moon Arising
+      - Falling Stars
+      - Smooth Sailing
+
+26. Pier 42 Far Left (Pier 42)
+    Total Routes: 4
+    Ring Position: 77.9�
+    Average Coordinates: 36.08924, -115.47660
+    All Routes:
+      - Alice Austen
+      - Hell's Gate
+      - Nah'gah
+      - Tap'puts
+
+27. The Amber Oasis (First Creek Canyon)
+    Total Routes: 7
+    Ring Position: 78.0�
+    Average Coordinates: 36.08195, -115.47808
+    All Routes:
+      - A Tan Camel
+      - Amber Oasis
+      - Dietary Constrictions
+      - Monkey Paws
+      - Shadow Corner
+      - Sunny Side Girl
+      - Watchtower Intrigue
+
+28. Romper Room (First Creek Canyon)
+    Total Routes: 4
+    Ring Position: 78.5�
+    Average Coordinates: 36.07863, -115.47841
+    All Routes:
+      - Frank's Right Foot Stinks
+      - Kindergarten Cop
+      - Romper Room
+      - Unknown
+
+29. Slot Club Wall (First Creek Canyon)
+    Total Routes: 11
+    Ring Position: 78.9�
+    Average Coordinates: 36.08120, -115.47760
+    All Routes:
+      - Bighorn Campus Coffee House
+      - Coming of Age
+      - Extortion Among Friends
+      - Hopscotch
+      - Ms. Guided
+      - Pinball Crack
+      - Plankton's Revenge
+      - Slot Club
+      - Sugar on Top
+      - The Closet
+      - The Polygon Petting Zoo
+
+30. Alcohol Wall (First Creek Canyon)
+    Total Routes: 4
+    Ring Position: 79.2�
+    Average Coordinates: 36.07813, -115.47797
+    All Routes:
+      - Gin Ricky
+      - Mai Tai
+      - Rob Roy
+      - Straight Shot
+
+31. Lotta Balls Wall (First Creek Canyon)
+    Total Routes: 1
+    Ring Position: 79.5�
+    Average Coordinates: 36.07801, -115.47777
+    All Routes:
+      - Power to Waste
+
+32. The Gentleman's Club (First Creek Canyon)
+    Total Routes: 3
+    Ring Position: 80.8�
+    Average Coordinates: 36.08178, -115.47620
+    All Routes:
+      - Ladies Drink Free
+      - Rick's Tally Ho
+      - Spearmint Rhino
+
+33. Pier 42 Left Center (Pier 42)
+    Total Routes: 1
+    Ring Position: 81.6�
+    Average Coordinates: 36.08787, -115.47475
+    All Routes:
+      - Drundledat
+
+34. Mass Extinction Block (Mount Wilson)
+    Total Routes: 1
+    Ring Position: 81.7�
+    Average Coordinates: 36.08402, -115.47528
+    All Routes:
+      - Impact Event
+
+35. Mudterm Area (First Creek Canyon)
+    Total Routes: 5
+    Ring Position: 82.4�
+    Average Coordinates: 36.07703, -115.47571
+    All Routes:
+      - Critical Cams
+      - In For a Penny
+      - Lucky Nuts
+      - Moody's Move
+      - Mudterm
+
+36. The Schoolyard (First Creek Canyon)
+    Total Routes: 16
+    Ring Position: 85.3�
+    Average Coordinates: 36.07565, -115.47367
+    All Routes:
+      - Across The Choss
+      - Blackboard Technique
+      - Coffin Corner
+      - Deja Vu
+      - Discipline Problem
+      - Dunce's Corner
+      - Honcho Imposter
+      - Improbable Prose
+      - Multiple Choice
+      - Pop Quiz
+      - Return of the Jedi
+      - Schoolyard Bully
+      - Short Subject
+      - Somebody Else's Splitter
+      - Sunday School
+      - Unknown
+
+37. Waaay Above the Arch (First Creek Canyon)
+    Total Routes: 1
+    Ring Position: 87.0�
+    Average Coordinates: 36.06937, -115.47269
+    All Routes:
+      - Lana Learns to Crush
+
+38. The Attic (Windy Peak)
+    Total Routes: 1
+    Ring Position: 89.2�
+    Average Coordinates: 36.01585, -115.47140
+    All Routes:
+      - Lil' Sumpin'
+
+39. Western Spaces Wall (Black Velvet Canyon)
+    Total Routes: 2
+    Ring Position: 89.5�
+    Average Coordinates: 36.03712, -115.47075
+    All Routes:
+      - Circus Act
+      - Mr. Natural of the Desert
+
+40. Gluten Free Boulder (Windy Peak)
+    Total Routes: 1
+    Ring Position: 90.2�
+    Average Coordinates: 36.01782, -115.46971
+    All Routes:
+      - Gluten Free Lap Dance
+
+41. The Texas Wall / West Velvet Wall (Black Velvet Canyon)
+    Total Routes: 1
+    Ring Position: 90.8�
+    Average Coordinates: 36.03599, -115.46885
+    All Routes:
+      - Tri Tip
+
+42. Black Velvet Wall (Black Velvet Canyon)
+    Total Routes: 4
+    Ring Position: 92.3�
+    Average Coordinates: 36.03518, -115.46652
+    All Routes:
+      - Cutting Edge
+      - Johnny Come Lately
+      - Spark Plug
+      - The Fiddler Roof
+
+43. East Face (Windy Peak)
+    Total Routes: 3
+    Ring Position: 94.0�
+    Average Coordinates: 36.01713, -115.46286
+    All Routes:
+      - Blockade Runner
+      - The Aid Crack
+      - The Free Crack
+
+44. Burlap Buttress (Black Velvet Canyon)
+    Total Routes: 6
+    Ring Position: 94.3�
+    Average Coordinates: 36.03705, -115.46378
+    All Routes:
+      - Arch Rival
+      - Leaky Facet
+      - Millepede
+      - The Prism Corner
+      - Wish Bone
+      - Yucca Butt
+
+45. North Face (Whiskey Peak)
+    Total Routes: 6
+    Ring Position: 94.4�
+    Average Coordinates: 36.03509, -115.46345
+    All Routes:
+      - Closed on Monday
+      - Desert Wave
+      - Mazatlan
+      - Open-and-Shut
+      - Perplexity
+      - Rain Dance
+
+46. The Rad Cliff (Whiskey Peak)
+    Total Routes: 9
+    Ring Position: 95.4�
+    Average Coordinates: 36.03248, -115.46180
+    All Routes:
+      - Azkaban Jam
+      - Back to Basics
+      - Basilisk Fang
+      - Cadillac Crack
+      - Dark Arts
+      - Diagon Alley
+      - Get Rad
+      - Moaning Myrtle
+      - Rita Skeeter
+
+47. Mustang Wall (Black Velvet Canyon)
+    Total Routes: 1
+    Ring Position: 95.5�
+    Average Coordinates: 36.04497, -115.46271
+    All Routes:
+      - Mustang Corner
+
+48. The Monument (Black Velvet Canyon)
+    Total Routes: 8
+    Ring Position: 96.4�
+    Average Coordinates: 36.03897, -115.46096
+    All Routes:
+      - All the Right Moves
+      - Bone Saw
+      - Clipper
+      - Handbone
+      - Headlamp Mechanics
+      - Lizard Locks
+      - Step Into The Squeezer
+      - West Edge Lane
+
+49. Ghost Wall (First Pullout (Calico I))
+    Total Routes: 4
+    Ring Position: 208.7�
+    Average Coordinates: 36.14462, -115.42503
+    All Routes:
+      - Casper
+      - Haunted
+      - Paranormal Activity
+      - Poltergeist
+
+50. Dante's Wall (First Pullout (Calico I))
+    Total Routes: 8
+    Ring Position: 208.9�
+    Average Coordinates: 36.14497, -115.42471
+    All Routes:
+      - Celestial Spheres
+      - Dis
+      - Divine Comedy
+      - One Hundred Cantos
+      - The Right Road Lost
+      - Three Mouths, Three Faces
+      - Virgil and Beatrice
+      - Virtuous Pagans
+
+51. Jessica's Wall (First Pullout (Calico I))
+    Total Routes: 7
+    Ring Position: 209.1�
+    Average Coordinates: 36.14467, -115.42562
+    All Routes:
+      - Angel Tears Falling from Heaven and Splashing in my Eye
+      - Big Head
+      - Flying Trapeze
+      - Here Comes the Sun
+      - Light Blue
+      - Lil's Juicy Juice
+      - The Crevasse
+
+52. The Chasm (First Pullout (Calico I))
+    Total Routes: 3
+    Ring Position: 209.4�
+    Average Coordinates: 36.14524, -115.42518
+    All Routes:
+      - Climhazzard
+      - Into the Light
+      - Over my Depth
+
+53. The CarlyQuinn Crag (First Pullout (Calico I))
+    Total Routes: 6
+    Ring Position: 209.7�
+    Average Coordinates: 36.14475, -115.42653
+    All Routes:
+      - Full Body Wag
+      - Keeping Up with Carly
+      - Lunch with Leslie
+      - Miss CarlyQuinn
+      - Off the Leash
+      - The Great White Dog
+
+54. Civilization Crag (First Pullout (Calico I))
+    Total Routes: 15
+    Ring Position: 210.2�
+    Average Coordinates: 36.14543, -115.42639
+    All Routes:
+      - Babylon 5.8
+      - Byzantium
+      - Conquistador
+      - Evil Empire
+      - Five Charter Oath
+      - Manifest Destiny
+      - Meerkat Manor
+      - Ming Dynasty
+      - Mongol Hoarde
+      - Sultans and Viziers
+      - The Fall of Rome
+      - The Sun Never Sets
+      - The Three Kingdoms
+      - This is Sparta
+      - Umayyad Caliphate
+
+55. Tortuga Tower (First Pullout (Calico I))
+    Total Routes: 4
+    Ring Position: 210.5�
+    Average Coordinates: 36.14518, -115.42732
+    All Routes:
+      - Holy Chelonians
+      - Shell Game
+      - Tortuga Tower
+      - Turtle Track
+
+56. The Black Hole (First Pullout (Calico I))
+    Total Routes: 9
+    Ring Position: 210.9�
+    Average Coordinates: 36.14610, -115.42647
+    All Routes:
+      - Barfing bone balls
+      - Black Bomber
+      - Bottomless Pit
+      - Epic Curious
+      - Is this now?
+      - Quasar
+      - Strangers to Ourselves
+      - The End
+      - Wash Away the Rain
+
+57. Climb Bandits Area (First Pullout (Calico I))
+    Total Routes: 1
+    Ring Position: 211.5�
+    Average Coordinates: 36.14661, -115.42653
+    All Routes:
+      - Climb Bandits
+
+58. Southwest Wall (Classic Rock Wall)
+    Total Routes: 15
+    Ring Position: 211.5�
+    Average Coordinates: 36.14566, -115.42811
+    All Routes:
+      - Another Bolt in the Wall
+      - Bolt Climb Rock and Fall
+      - Climbing on Broken Choss
+      - Climbing on a Prayer
+      - Don�t Stop��Belaying
+      - Hanging Fifty
+      - Oops I Sent It Again
+      - Pour Some Beta On Me
+      - Pretty High for a Climb Guy
+      - Routebusters!
+      - Sends in Low Places
+      - Sweet Climb O' Mine
+      - Truly Chossy Gri-gri
+      - Un-break My Hold
+      - Wannabe (my belayer)
+
+59. Northeast Wall (Classic Rock Wall)
+    Total Routes: 7
+    Ring Position: 211.5�
+    Average Coordinates: 36.14575, -115.42805
+    All Routes:
+      - Climber of 5.9
+      - Climber�s Paradise
+      - Dirty Clings Done Dirt Cheap
+      - High-hueco To Hell
+      - I Would Climb Any-cling for Love
+      - I�ll Send It That Way
+      - Save On-sight
+
+60. Velvet Elvis (First Pullout (Calico I))
+    Total Routes: 4
+    Ring Position: 211.6�
+    Average Coordinates: 36.14660, -115.42677
+    All Routes:
+      - Backburner
+      - Isis
+      - Purple Suede
+      - The Bobby
+
+61. Climb Bomb (First Pullout (Calico I))
+    Total Routes: 3
+    Ring Position: 211.7�
+    Average Coordinates: 36.14658, -115.42697
+    All Routes:
+      - Climb Bomb
+      - Climb Machine
+      - Climb Warp
+
+62. Viagra Tower (First Pullout (Calico I))
+    Total Routes: 3
+    Ring Position: 211.8�
+    Average Coordinates: 36.14586, -115.42837
+    All Routes:
+      - Cialis Cleft
+      - The Shaft
+      - Woofers
+
+63. The Sundial (First Pullout (Calico I))
+    Total Routes: 1
+    Ring Position: 212.0�
+    Average Coordinates: 36.14675, -115.42727
+    All Routes:
+      - The Loadstone
+
+64. Upper Rift (The Rift)
+    Total Routes: 11
+    Ring Position: 212.1�
+    Average Coordinates: 36.14617, -115.42828
+    All Routes:
+      - End On A High Note
+      - Grave Peril
+      - It's Tricky To Rock A Climb
+      - Joy Flakes
+      - Pathological Clinger
+      - Powered By Anxiety
+      - Pseudofolliculitis Barbae
+      - Scream With Me
+      - Shrinking Shadow
+      - Variable Pessimism
+      - Verticissitudes
+
+65. Universal City (First Pullout (Calico I))
+    Total Routes: 4
+    Ring Position: 212.3�
+    Average Coordinates: 36.14724, -115.42684
+    All Routes:
+      - Cameo Appearance
+      - Prime Ticket
+      - Quiet on the Set
+      - Star Search
+
+66. Child's Play Wall (First Pullout (Calico I))
+    Total Routes: 4
+    Ring Position: 212.3�
+    Average Coordinates: 36.14708, -115.42720
+    All Routes:
+      - Capture the Flag
+      - Hide and Seek
+      - Monkey in the Middle
+      - Tag You're It
+
+67. Rift Corridor - Right (The Rift Corridor)
+    Total Routes: 4
+    Ring Position: 212.4�
+    Average Coordinates: 36.14631, -115.42847
+    All Routes:
+      - Hangry Demon
+      - Off With Your Feet
+      - Prosopagnosia
+      - Twisted Nerve
+
+68. Cactus Massacre (First Pullout (Calico I))
+    Total Routes: 16
+    Ring Position: 212.4�
+    Average Coordinates: 36.14687, -115.42762
+    All Routes:
+      - Agave
+      - Cactus Head
+      - Cactus Hugger
+      - Cactus Juice
+      - Cactus Killa
+      - Cactus Massacre
+      - Cactus Pete
+      - Cactus Root
+      - Cascading Cacti
+      - Cholla
+      - Never Kiss a Cactus
+      - One Flew Over a Cactus Nest
+      - Over a Barrel
+      - Saguaro
+      - Straight to the Point
+      - Xmas Cactus
+
+69. Rift Corridor - Left (The Rift Corridor)
+    Total Routes: 14
+    Ring Position: 212.6�
+    Average Coordinates: 36.14645, -115.42860
+    All Routes:
+      - Antisocial
+      - Apocalyptic Dingleberry
+      - Beyond Reproach
+      - Choose Your Fighter
+      - Containment
+      - Flying Whale
+      - Indemnification
+      - Mixed Victory
+      - Primogeniture
+      - Split Happens
+      - Stand In The Corner
+      - The Rift
+      - Truth To Power
+      - Unrepented
+
+70. Cactus Corridor (First Pullout (Calico I))
+    Total Routes: 6
+    Ring Position: 212.6�
+    Average Coordinates: 36.14691, -115.42791
+    All Routes:
+      - Reprobate
+      - Shine On J.P.
+      - So Glad You Made It
+      - Times like these
+      - Truth #2
+      - White After Labor Day
+
+71. Outer Rift aka Router Wall (The Rift)
+    Total Routes: 7
+    Ring Position: 212.9�
+    Average Coordinates: 36.14651, -115.42897
+    All Routes:
+      - Beats Me
+      - How Should I Know
+      - I'll Never Tell
+      - Jumbo Frames
+      - None of Your Business
+      - That One
+      - This One
+
+72. Meat Puppets Wall (First Pullout (Calico I))
+    Total Routes: 5
+    Ring Position: 213.2�
+    Average Coordinates: 36.14749, -115.42804
+    All Routes:
+      - Blank Czech
+      - Crawdad
+      - Danger Dawg
+      - Ranger Danger
+      - Yellow Dog
+
+73. Circus Cliff (First Pullout (Calico I))
+    Total Routes: 9
+    Ring Position: 213.3�
+    Average Coordinates: 36.14686, -115.42907
+    All Routes:
+      - Big Top
+      - Careful of Clowns
+      - Clown Face
+      - Elephant Man
+      - High Wire
+      - Human Cannonball
+      - Lion Tamer
+      - Rainbow Road
+      - Unknown
+
+74. Chuck Wall (First Pullout (Calico I))
+    Total Routes: 6
+    Ring Position: 213.9�
+    Average Coordinates: 36.14778, -115.42868
+    All Routes:
+      - Crimpflation
+      - Fade Out
+      - Intergalactic Slacks
+      - Lacertine
+      - Life's Wreckage
+      - Middle Child
+
+75. Dog Wall (First Pullout (Calico I))
+    Total Routes: 8
+    Ring Position: 214.0�
+    Average Coordinates: 36.14745, -115.42927
+    All Routes:
+      - Cat Walk
+      - Cujo
+      - Dog Logic (aka Here Kitty, Kitty)
+      - Dog Wall | 4729
+      - Doggy Style
+      - Man's Best Friend
+      - Pleasure Dog (aka It's a Bitch)
+      - Poodle Chainsaw Massacre
+
+76. Fixx Cliff (First Pullout (Calico I))
+    Total Routes: 18
+    Ring Position: 214.5�
+    Average Coordinates: 36.14801, -115.42930
+    All Routes:
+      - Cocaine Hotline
+      - Crack
+      - Eight Ball
+      - Free Base
+      - One Thing Leads to Another
+      - Outside the Envelope
+      - Pied Piper
+      - Quail's Gamble
+      - Reach the Beach
+      - Red Skies
+      - Running
+      - Saved by Zero
+      - Snow Blind
+      - Stand or Fall
+      - The Bindle
+      - The Geezer
+      - The Skag
+      - The Whiff
+
+77. The Shipwreck (First Pullout (Calico I))
+    Total Routes: 3
+    Ring Position: 214.7�
+    Average Coordinates: 36.14789, -115.42971
+    All Routes:
+      - Burial At Sea
+      - Sunken Treasure
+      - Walk The Plank
+
+78. Right Wall (The Oasis)
+    Total Routes: 3
+    Ring Position: 214.8�
+    Average Coordinates: 36.14854, -115.42900
+    All Routes:
+      - Diamond Dance
+      - Hang Ten
+      - Pad's Passion
+
+79. Tuna and Chips Wall (First Pullout (Calico I))
+    Total Routes: 8
+    Ring Position: 215.0�
+    Average Coordinates: 36.14846, -115.42939
+    All Routes:
+      - Albacore Man
+      - Dolphin Safe
+      - No Hay Sequia
+      - Reverse Osmosis
+      - The Minnow
+      - Tuna Cookies
+      - Tuna and Chips
+      - Water Streak
+
+80. Upper Tier (The Oasis)
+    Total Routes: 1
+    Ring Position: 215.0�
+    Average Coordinates: 36.14880, -115.42892
+    All Routes:
+      - Money
+
+81. Left Wall (The Oasis)
+    Total Routes: 5
+    Ring Position: 215.0�
+    Average Coordinates: 36.14872, -115.42905
+    All Routes:
+      - Casino
+      - My Thai
+      - Serious Libation
+      - Snack Crack
+      - The Warming
+
+82. Tiger Stripe Wall (First Pullout (Calico I))
+    Total Routes: 5
+    Ring Position: 215.3�
+    Average Coordinates: 36.14801, -115.43051
+    All Routes:
+      - A Fraction of the Action
+      - Action by the Fraction
+      - Bengal
+      - Unknown
+      - White Tigers
+
+83. The Slab (First Pullout (Calico I))
+    Total Routes: 10
+    Ring Position: 216.0�
+    Average Coordinates: 36.14878, -115.43033
+    All Routes:
+      - Chuckwalla Slab
+      - Crab On A Slab
+      - Slab Happy
+      - Slab Stick
+      - Slabbing It
+      - Slabby
+      - Slabracadabra
+      - Slabulous
+      - Smear Campaign
+      - Streak on the Slab
+
+84. Panty Wall (First Pullout (Calico I))
+    Total Routes: 21
+    Ring Position: 216.5�
+    Average Coordinates: 36.14964, -115.42990
+    All Routes:
+      - Black Lace
+      - Boxer Rebellion
+      - Brief Encounter
+      - Butt Floss
+      - Butt Floss Left
+      - Corner Office
+      - Eat My Shorts
+      - Edible Panties
+      - Office Expansion
+      - Office Manager
+      - Office Party
+      - Panty Line
+      - Panty Mime
+      - Panty Raid
+      - Sacred Undergarment Squeeze Job
+      - Silk Panties
+      - The Last Panty
+      - Tighty Whities
+      - Totally Clips
+      - Viagra Falls
+      - Victoria's Secret
+
+85. Amusement Park (First Pullout (Calico I))
+    Total Routes: 12
+    Ring Position: 216.6�
+    Average Coordinates: 36.14941, -115.43047
+    All Routes:
+      - Bumper Cars
+      - Cotton Candy
+      - Demon Drop
+      - Haunted House
+      - Jack Rabbit
+      - Log Flume
+      - Mind Eraser
+      - Power Tower
+      - Roller Coaster
+      - Steel Phantom
+      - Tea Cups
+      - Tilt-A-Whirl
+
+86. Great Red Roof Area (First Pullout (Calico I))
+    Total Routes: 1
+    Ring Position: 216.8�
+    Average Coordinates: 36.15021, -115.42965
+    All Routes:
+      - Hammy the Girl
+
+87. The J Wall (First Pullout (Calico I))
+    Total Routes: 4
+    Ring Position: 218.0�
+    Average Coordinates: 36.15034, -115.43111
+    All Routes:
+      - Four Routes Right of J-Wall
+      - Killer Joe
+      - Killer Joe Direct
+      - Mind If I Do A J
+
+88. The Hamlet (First Pullout (Calico I))
+    Total Routes: 13
+    Ring Position: 218.2�
+    Average Coordinates: 36.15055, -115.43111
+    All Routes:
+      - Frailty Thy Name is Sandstone
+      - Moni's Money
+      - Perchance to Dream
+      - Sea of Troubles
+      - Stand Dumb and Speak Not
+      - Sweets to the Sweet
+      - The Die is Cast
+      - The Madness and the Method
+      - The Rest is Silence
+      - Thy Spirit of a Father Lost
+      - To Grunt and Sweat
+      - Undiscovered Country
+      - When the Blood Burns
+
+89. Wall of Death (First Pullout (Calico I))
+    Total Routes: 3
+    Ring Position: 219.1�
+    Average Coordinates: 36.15129, -115.43143
+    All Routes:
+      - A Route No One Has Ever Survived
+      - Five-Thirteen Ex
+      - Fuzzy Bunny Slippers
+
+90. Ultraman Wall (First Pullout (Calico I))
+    Total Routes: 13
+    Ring Position: 219.1�
+    Average Coordinates: 36.15151, -115.43125
+    All Routes:
+      - Clutch Cargo
+      - Destroy All Monsters
+      - Ghidorah
+      - Godzilla
+      - MK Ultra
+      - Mothra
+      - Rodan
+      - Scent of the Ultraman
+      - Science Patrol
+      - Speed Racer
+      - Ultramagnetic MCs
+      - Ultraman
+      - Unknown
+
+91. Newcastle Crag (First Pullout (Calico I))
+    Total Routes: 10
+    Ring Position: 219.8�
+    Average Coordinates: 36.15122, -115.43254
+    All Routes:
+      - Deaf Elevated
+      - Full Sail
+      - Guinness
+      - Mission Accomplished
+      - Pale Ale
+      - The Boila
+      - The Broon
+      - The One the Only
+      - Unknown
+      - Warrantless Wiretap
+
+92. Iron Man Wall (First Pullout (Calico I))
+    Total Routes: 12
+    Ring Position: 220.1�
+    Average Coordinates: 36.15189, -115.43210
+    All Routes:
+      - Brandi Whine
+      - Easiest Path
+      - Ferrous Wheel
+      - Iron Maiden
+      - Iron Man
+      - Necco Waif
+      - Oxosis
+      - Particle Man
+      - Rust Bucket
+      - Silver Surfer
+      - Slag Crack
+      - Test of Time
+
+93. Janes Wall (First Pullout (Calico I))
+    Total Routes: 10
+    Ring Position: 220.6�
+    Average Coordinates: 36.15234, -115.43230
+    All Routes:
+      - Been Caught Stealin'
+      - Doctor's Orders
+      - Half Baked
+      - Idiots Rule
+      - Jay Smith Appreciation Route
+      - Keep It Gutta
+      - Mannish Boys
+      - Playing Hooky
+      - See Dick Fly
+      - What's Left Of The Sport
+
+94. Tsunami Wall (First Pullout (Calico I))
+    Total Routes: 3
+    Ring Position: 220.7�
+    Average Coordinates: 36.15177, -115.43311
+    All Routes:
+      - Low Tide
+      - Tremor
+      - Women and Children First
+
+95. Trundle Wall (First Pullout (Calico I))
+    Total Routes: 3
+    Ring Position: 220.8�
+    Average Coordinates: 36.15229, -115.43253
+    All Routes:
+      - Bone Machine
+      - Life out of Balance
+      - Pocket Rocket
+
+96. Winter Heat Wall (Kraft Mountain Area)
+    Total Routes: 7
+    Ring Position: 225.7�
+    Average Coordinates: 36.16876, -115.42245
+    All Routes:
+      - Couldn't be Schmooter
+      - High Class Ho
+      - Judy's Route
+      - Nuttin Could be Finer
+      - Seasonal Controversies
+      - The Reign of Swain
+      - Winter Heat
+
+97. Sunny and Steep (Kraft Mountain Area)
+    Total Routes: 2
+    Ring Position: 226.8�
+    Average Coordinates: 36.16986, -115.42321
+    All Routes:
+      - Sport Chimney
+      - Working for Peanuts
+
+98. Yin and Yang Cliff (Kraft Mountain Area)
+    Total Routes: 9
+    Ring Position: 228.1�
+    Average Coordinates: 36.16791, -115.42695
+    All Routes:
+      - Atman
+      - Bigwank
+      - Boxing Day
+      - Budda's Corner
+      - Miniwanka
+      - Renewal
+      - Shortwank
+      - Sport Wanker Extraordinaire
+      - Yin and Yang
+
+99. Stratocaster Area (Calico Hills Trail)
+    Total Routes: 15
+    Ring Position: 232.2�
+    Average Coordinates: 36.15852, -115.44010
+    All Routes:
+      - Ancient Aria
+      - Break Loose
+      - Cut Loose
+      - Flameblower
+      - Flying V
+      - Footloose
+      - Marshall Amp
+      - One-Eyed Jacks
+      - Split Ends
+      - Split Infinitive
+      - Split Lip
+      - Stratocaster
+      - Swedish Erotica
+      - The Deluxe
+      - Titan Rocket
+
+100. Lower Tier (James Brown Area)
+    Total Routes: 1
+    Ring Position: 234.8�
+    Average Coordinates: 36.16281, -115.43976
+    All Routes:
+      - Mirage II
+
+101. Upper Tier (James Brown Area)
+    Total Routes: 3
+    Ring Position: 235.0�
+    Average Coordinates: 36.16299, -115.43987
+    All Routes:
+      - Brand New Bag
+      - James Brown
+      - Soul Power
+
+102. Running Man Wall (Calico Hills Trail)
+    Total Routes: 11
+    Ring Position: 235.4�
+    Average Coordinates: 36.16016, -115.44230
+    All Routes:
+      - Commitment to Excrement
+      - Eat My Shorts
+      - Frictiony Face Panty Waist
+      - Galloping Gal
+      - Graveyard Waltz
+      - Plastic People
+      - Predator
+      - Red Heat
+      - Running Man
+      - Synthetic Society
+      - Vile Pile
+
+103. Holiday Wall (Calico Tanks Area)
+    Total Routes: 7
+    Ring Position: 236.3�
+    Average Coordinates: 36.16286, -115.44137
+    All Routes:
+      - Fast Moving Train
+      - Gift Rapped
+      - Moments to Memories
+      - Red Sky Mining
+      - Red Storm Rising
+      - Saddam's Mom
+      - When the Cat's Away
+
+104. The Mass Production Wall (Calico Tanks Area)
+    Total Routes: 7
+    Ring Position: 238.9�
+    Average Coordinates: 36.16440, -115.44322
+    All Routes:
+      - Battery Powered
+      - Foreman Ferris
+      - Hit and Run
+      - Kokopelli
+      - Parts is Parts
+      - Some Assembly Required
+      - Trigger Happy
+
+105. Computer Virus Wall (Calico Tanks Area)
+    Total Routes: 1
+    Ring Position: 238.9�
+    Average Coordinates: 36.16567, -115.44248
+    All Routes:
+      - Hero Worship
+
+106. Hall of Fame (Calico Tanks Area)
+    Total Routes: 10
+    Ring Position: 239.2�
+    Average Coordinates: 36.16538, -115.44292
+    All Routes:
+      - Armed and Dangerous
+      - Bad Reputation
+      - Bull Rider
+      - Innocent Bystander
+      - Ms. Adventure
+      - Repeat Offender
+      - Resisting a Rest
+      - Rest Training Order
+      - Walk the Line
+      - Yearnin' and Learnin'
+
+107. The Pier (Calico Hills Trail)
+    Total Routes: 5
+    Ring Position: 239.8�
+    Average Coordinates: 36.16070, -115.44627
+    All Routes:
+      - Basement
+      - Long Walk Off Of a Short Pier
+      - Scantily Clad Bimbo
+      - Seventh Hour
+      - Under the Boardwalk
+
+108. Americrag (Calico Hills Trail)
+    Total Routes: 2
+    Ring Position: 240.7�
+    Average Coordinates: 36.16255, -115.44613
+    All Routes:
+      - Jimmy Nap
+      - Mr Moto
+
+109. California Crag (Calico Hills Trail)
+    Total Routes: 8
+    Ring Position: 241.2�
+    Average Coordinates: 36.16118, -115.44733
+    All Routes:
+      - Cal. West
+      - Far Cry From Josh
+      - Hurricane
+      - Just in from L.A.
+      - Orange County
+      - Quicksand
+      - Senseless seizure
+      - The Escalator
+
+110. Corridor Right (Hidden Corridor)
+    Total Routes: 3
+    Ring Position: 242.4�
+    Average Coordinates: 36.16123, -115.44840
+    All Routes:
+      - Dirty Secret
+      - Don't Scare the Bat!
+      - Hidden Edge
+
+111. Gully Right (Hidden Corridor)
+    Total Routes: 5
+    Ring Position: 242.6�
+    Average Coordinates: 36.16153, -115.44850
+    All Routes:
+      - Gonzo
+      - Little Red
+      - Northernmost Gully Route
+      - Red-Cap
+      - Walking on a Dream
+
+112. Below Chrysler Crack (Sandy Corridor)
+    Total Routes: 2
+    Ring Position: 242.7�
+    Average Coordinates: 36.16286, -115.44786
+    All Routes:
+      - Octopussy
+      - You Only Live Twice
+
+113. Chrysler Crack Buttress (Sandy Corridor)
+    Total Routes: 1
+    Ring Position: 242.9�
+    Average Coordinates: 36.16280, -115.44808
+    All Routes:
+      - Chrysler Crack
+
+114. Man's Best Friend Area (Parking Lot Area)
+    Total Routes: 2
+    Ring Position: 243.5�
+    Average Coordinates: 36.16196, -115.44912
+    All Routes:
+      - Crusty Creatures
+      - Sea Anemone
+
+115. Right Wall (Front Corridor)
+    Total Routes: 11
+    Ring Position: 244.1�
+    Average Coordinates: 36.16265, -115.44929
+    All Routes:
+      - Broken Tooth
+      - Bruised Ribs
+      - Fury
+      - Gun Control
+      - Hair Today Gone Tomorrow
+      - High Noon
+      - Shouting Match
+      - Siktion
+      - The Brawl
+      - To Bolt or Toupee
+      - Unknown
+
+116. Left Wall (Front Corridor)
+    Total Routes: 2
+    Ring Position: 244.2�
+    Average Coordinates: 36.16270, -115.44939
+    All Routes:
+      - Helltown
+      - Pockets of Dirt
+
+117. White Slab (Parking Lot Area)
+    Total Routes: 6
+    Ring Position: 244.6�
+    Average Coordinates: 36.16251, -115.44977
+    All Routes:
+      - Guides Wall  2
+      - Guides Wall  3
+      - Guides Wall 4?
+      - Leisure Boy
+      - Pleasure Boy
+      - White Slab
+
+118. Lower Left Wall (Sandy Corridor)
+    Total Routes: 1
+    Ring Position: 244.6�
+    Average Coordinates: 36.16398, -115.44915
+    All Routes:
+      - Traversing Seam
+
+119. Lower Right Wall (Sandy Corridor)
+    Total Routes: 4
+    Ring Position: 245.0�
+    Average Coordinates: 36.16393, -115.44949
+    All Routes:
+      - Bolt Route
+      - Inn Zone
+      - The Ring Leader
+      - The Wallow
+
+120. Boy Scout Cliff (Sandy Corridor)
+    Total Routes: 1
+    Ring Position: 245.7�
+    Average Coordinates: 36.16412, -115.45007
+    All Routes:
+      - The Good Boy Scout
+
+121. The Grindhouse (Wake Up Wall Area)
+    Total Routes: 6
+    Ring Position: 248.6�
+    Average Coordinates: 36.16475, -115.45250
+    All Routes:
+      - Cell Block Sisters
+      - Death Proof
+      - Four of the Apocolypse
+      - Hell Up In Harlem
+      - Machete
+      - Planet Terror
+
+122. The Secret 13 Wall (The Trophy Area)
+    Total Routes: 2
+    Ring Position: 249.2�
+    Average Coordinates: 36.17082, -115.45073
+    All Routes:
+      - Inside Out
+      - Silence
+
+123. Broast and Toast Wall (Wake Up Wall Area)
+    Total Routes: 2
+    Ring Position: 249.9�
+    Average Coordinates: 36.16635, -115.45305
+    All Routes:
+      - C. H. U. D.
+      - Desert Sportsman
+
+124. Sonic Youth Wall (Wake Up Wall Area)
+    Total Routes: 7
+    Ring Position: 249.9�
+    Average Coordinates: 36.16586, -115.45323
+    All Routes:
+      - Black Flag
+      - Fearless Freaks
+      - GBH
+      - Gardyloo
+      - I Would for You
+      - Last but least
+      - Sonic Youth
+
+125. Sonic Youth Upper Tier (Wake Up Wall Area)
+    Total Routes: 2
+    Ring Position: 250.0�
+    Average Coordinates: 36.16584, -115.45330
+    All Routes:
+      - Crankenstein
+      - Slam Dancin' With The Amish
+
+126. Avian Wall (The Trophy Area)
+    Total Routes: 5
+    Ring Position: 250.0�
+    Average Coordinates: 36.17010, -115.45180
+    All Routes:
+      - Coyote Moon
+      - Spotted Eagle
+      - Spotted Owl
+      - The Cat and the Bird
+      - Thunderbird
+
+127. The Bull Market and Satellite Wall (The Trophy Area)
+    Total Routes: 1
+    Ring Position: 250.2�
+    Average Coordinates: 36.16950, -115.45214
+    All Routes:
+      - Leveraged Buyout
+
+128. The Asylum (Wake Up Wall Area)
+    Total Routes: 2
+    Ring Position: 250.4�
+    Average Coordinates: 36.16563, -115.45372
+    All Routes:
+      - Comforts of Madness
+      - Flip the Switch
+
+129. The Wake-Up Wall (Wake Up Wall Area)
+    Total Routes: 24
+    Ring Position: 250.9�
+    Average Coordinates: 36.16724, -115.45361
+    All Routes:
+      - Angled Dangler
+      - Blame it on my ADD
+      - Crack of Noon
+      - Fall of Vegas
+      - First Born
+      - First Brew
+      - Good Morning
+      - Last Out
+      - Left Crack
+      - Mic's Master
+      - Monkey Rhythm
+      - Native Son
+      - On to the Next One
+      - Poundcake
+      - Shape of Things to Come
+      - Shut Up and Climb
+      - Skid Mark
+      - Spanky Spangler
+      - The  Big Short
+      - The Healer
+      - The Last Drag
+      - The Last In Line
+      - Too Few Years
+      - XTZ
+
+130. The Twinkie (The Trophy Area)
+    Total Routes: 5
+    Ring Position: 251.3�
+    Average Coordinates: 36.16920, -115.45338
+    All Routes:
+      - Flake Eyes
+      - Like Mom Used To Make
+      - Short But Sweet
+      - Sno Ball
+      - Zinger
+
+131. The Numbers Crag (Wake Up Wall Area)
+    Total Routes: 3
+    Ring Position: 251.4�
+    Average Coordinates: 36.16667, -115.45430
+    All Routes:
+      - Number 1
+      - Number 2
+      - Number 3
+
+132. The Salt Factory (The Trophy Area)
+    Total Routes: 2
+    Ring Position: 251.7�
+    Average Coordinates: 36.17081, -115.45324
+    All Routes:
+      - Bandage Girl
+      - Super Meat Boy
+
+133. Common Time (Wake Up Wall Area)
+    Total Routes: 1
+    Ring Position: 252.2�
+    Average Coordinates: 36.16721, -115.45486
+    All Routes:
+      - Time Off
+
+134. The Walrus (Wake Up Wall Area)
+    Total Routes: 4
+    Ring Position: 252.7�
+    Average Coordinates: 36.16820, -115.45500
+    All Routes:
+      - Choking Smokers
+      - Expert Textpert
+      - I am the Walrus
+      - They are the Eggmen
+
+135. The COVID Crag (Wake Up Wall Area)
+    Total Routes: 3
+    Ring Position: 253.0�
+    Average Coordinates: 36.16908, -115.45503
+    All Routes:
+      - Leashed for life
+      - Mask Psychosis
+      - Plandemic
+
+136. Vaya Con Queso Cliff (The Trophy Area)
+    Total Routes: 1
+    Ring Position: 253.4�
+    Average Coordinates: 36.17209, -115.45449
+    All Routes:
+      - Burrito Face-Plant
+
+137. The Owl (Willow Spring)
+    Total Routes: 1
+    Ring Position: 296.9�
+    Average Coordinates: 36.16040, -115.49054
+    All Routes:
+      - The Leper
+
+138. Gold Digger Slab (Willow Spring)
+    Total Routes: 1
+    Ring Position: 302.6�
+    Average Coordinates: 36.15740, -115.49390
+    All Routes:
+      - Gold Digger
+
+139. Lost And Found Crag (Willow Spring)
+    Total Routes: 2
+    Ring Position: 302.6�
+    Average Coordinates: 36.15740, -115.49390
+    All Routes:
+      - Communist Plan
+      - Dont Mind Dyin'
+
+140. Outhouse Wall (Willow Spring)
+    Total Routes: 8
+    Ring Position: 304.8�
+    Average Coordinates: 36.16338, -115.50013
+    All Routes:
+      - Crag Rat Roof
+      - Jam Session
+      - Karate Crack
+      - Partly Sonnie
+      - Perfect Egg Bite
+      - Roasting Affair
+      - Spiderline
+      - Tricks are for Kids
+
+141. Ragged Edges Area (Willow Spring)
+    Total Routes: 20
+    Ring Position: 306.7�
+    Average Coordinates: 36.15756, -115.49799
+    All Routes:
+      - Aikido Gun Boy
+      - Bodiddly
+      - Chicken Eruptus
+      - Dense Dunce
+      - Dense Pack
+      - Diplomatic Immunity
+      - Dumptruck
+      - Footloose
+      - Getting Too Old for This S--t
+      - Kemosabe
+      - Lethal Weapon II
+      - Midheight
+      - Midnight
+      - Plan F
+      - Plan F - Early Exit
+      - Revoked
+      - Sheep Trail
+      - The Nightman Cometh
+      - Theme Book
+      - Unknown crack
+
+142. Children's Crag (Willow Spring)
+    Total Routes: 9
+    Ring Position: 306.9�
+    Average Coordinates: 36.16094, -115.50070
+    All Routes:
+      - 22 Minutes 'til Closing
+      - Dean's List
+      - Ice Climb
+      - Mitten's Revenge
+      - Peaches
+      - Son of a Peacher Man
+      - Stemming Corner
+      - Sumo Greatness
+      - Tarzan's Arm
+
+143. Willow Springs South (Willow Spring)
+    Total Routes: 17
+    Ring Position: 307.1�
+    Average Coordinates: 36.15467, -115.49623
+    All Routes:
+      - Above and Beyond
+      - Above, Above and Beyond
+      - Beyond and Above
+      - Cereal Killer
+      - Chocolate Tranquility Fountain
+      - Count Chocula
+      - Double Pin-etration
+      - Geezer's Face
+      - Gimpy Arete
+      - Lucky Charms
+      - N'Plus Ultra
+      - New Hips Face
+      - Sleeper
+      - Taking Care of Business
+      - The Abdominizer
+      - Unknown
+      - Wheat Thick
+
+144. The Case Face (Willow Spring)
+    Total Routes: 5
+    Ring Position: 307.6�
+    Average Coordinates: 36.15819, -115.49937
+    All Routes:
+      - DIC
+      - Hard Case
+      - Head Case
+      - Space Case
+      - Unknown
+
+145. Lost Creek Lower Tier (Willow Spring)
+    Total Routes: 8
+    Ring Position: 307.6�
+    Average Coordinates: 36.15622, -115.49789
+    All Routes:
+      - Bowling Balls and BB Brains
+      - Cochise
+      - Gripty Gravity
+      - Heatwave
+      - Little Big Horn
+      - The Threat
+      - Tholian Web
+      - Unknown
+
+146. Hidden Falls Wall (Willow Spring)
+    Total Routes: 8
+    Ring Position: 307.7�
+    Average Coordinates: 36.15575, -115.49760
+    All Routes:
+      - 5.8 chopped former sport route
+      - Black Track
+      - Buffalo Balls
+      - Camel Toe
+      - Killer Clowns
+      - Left Out
+      - Sole Slasher
+      - Stupid Foot
+
+147. Smitty's Caterpillar (Willow Spring)
+    Total Routes: 2
+    Ring Position: 307.8�
+    Average Coordinates: 36.16096, -115.50174
+    All Routes:
+      - Helldorado Days
+      - If I Could Frame a Fart
+
+148. Graduate Cliff (Willow Spring)
+    Total Routes: 3
+    Ring Position: 308.0�
+    Average Coordinates: 36.15766, -115.49941
+    All Routes:
+      - Acid Jacks
+      - The Graduate
+      - Walk to School
+
+149. Mossy Ledges Area (Willow Spring)
+    Total Routes: 13
+    Ring Position: 308.2�
+    Average Coordinates: 36.15925, -115.50090
+    All Routes:
+      - Cheatstone Crack
+      - Chocolate Sunday
+      - Ghost Rider
+      - Hookers and blow.
+      - Hundred-Foot Stick Clip
+      - Pussy Nuts
+      - Rapper's Disappointment
+      - Secret Ingredient
+      - Soiled Blue Jeans
+      - Soylent Green Jeans
+      - Stirling Moss
+      - The Barking Dog
+      - The Boldness
+
+150. Upper Willow Spring (Willow Spring)
+    Total Routes: 1
+    Ring Position: 308.4�
+    Average Coordinates: 36.15786, -115.49999
+    All Routes:
+      - Bad Sushi
+
+151. Mother's Crag (Willow Spring)
+    Total Routes: 1
+    Ring Position: 308.8�
+    Average Coordinates: 36.16264, -115.50423
+    All Routes:
+      - Unnamed
+
+152. Necromancer Wall (Icebox Canyon)
+    Total Routes: 4
+    Ring Position: 310.8�
+    Average Coordinates: 36.14400, -115.49069
+    All Routes:
+      - Back in Time
+      - Black Magic Panties
+      - Fold Out
+      - Sensuous Mortician
+
+153. Tiki Cliff (Icebox Canyon)
+    Total Routes: 2
+    Ring Position: 312.2�
+    Average Coordinates: 36.14312, -115.49095
+    All Routes:
+      - Lumpy arete
+      - Tarkus Crack
+
+154. Frigid Air Buttress (Icebox Canyon)
+    Total Routes: 1
+    Ring Position: 313.2�
+    Average Coordinates: 36.14396, -115.49249
+    All Routes:
+      - Blue Bunny
+
+155. Smears for Fears Area (Icebox Canyon)
+    Total Routes: 5
+    Ring Position: 313.4�
+    Average Coordinates: 36.14407, -115.49278
+    All Routes:
+      - Grumblefish
+      - Lebanese NoNo
+      - Rojo
+      - Romeo Charlie
+      - Smears for Fears
+
+156. Cauldron Wall (Icebox Canyon)
+    Total Routes: 1
+    Ring Position: 313.9�
+    Average Coordinates: 36.14230, -115.49143
+    All Routes:
+      - How-ard
+
+157. Sunnyside Crags (Icebox Canyon)
+    Total Routes: 20
+    Ring Position: 313.9�
+    Average Coordinates: 36.14500, -115.49403
+    All Routes:
+      - Adapt and Overcome
+      - Aesop�s Arete
+      - Bad Day at Black Rocks
+      - Blast From the Past
+      - Cold September Corner
+      - Fork In The Road
+      - Hot August Night
+      - Magellanic Cloud
+      - Mercedes
+      - Mister Freeze's Face
+      - Mister Masters
+      - Pit Bull
+      - Shady Ladies
+      - Spring Break
+      - Starless and Bible Black
+      - Tie me Tightly
+      - Van Allen Belt
+      - Water Dog
+      - Whiplash
+      - Whipper
+
+158. Refrigerator Wall (Icebox Canyon)
+    Total Routes: 5
+    Ring Position: 317.5�
+    Average Coordinates: 36.14370, -115.49583
+    All Routes:
+      - Amazing Grace
+      - Grape Nuts
+      - Greased Lightning
+      - Pork Soda
+      - Weenie Juice
+
+159. Upper Sunnyside Crag (Icebox Canyon)
+    Total Routes: 2
+    Ring Position: 318.1�
+    Average Coordinates: 36.14466, -115.49744
+    All Routes:
+      - Drat Crack
+      - Good-Time Charlie
+
+160. Little Manhattan (Pine Creek Canyon)
+    Total Routes: 2
+    Ring Position: 322.6�
+    Average Coordinates: 36.13491, -115.48951
+    All Routes:
+      - Bowery Boys
+      - Uptown Boys
+
+161. The Abutment (Pine Creek Canyon)
+    Total Routes: 8
+    Ring Position: 324.6�
+    Average Coordinates: 36.13213, -115.48704
+    All Routes:
+      - Baby Beelze
+      - Bridge of Sighs
+      - Coffee Generation
+      - Crazy Girls
+      - Left Leg Out
+      - Pier-Less
+      - Robin Trowel
+      - Stage 3 (aka Hell in a Bucket)
+
+162. Right of Flight Path Area (Pine Creek Canyon)
+    Total Routes: 2
+    Ring Position: 328.6�
+    Average Coordinates: 36.13013, -115.48657
+    All Routes:
+      - Cantilever Corner
+      - Spanning the Gap
+
+163. Flight Path Area (Pine Creek Canyon)
+    Total Routes: 22
+    Ring Position: 331.1�
+    Average Coordinates: 36.12916, -115.48660
+    All Routes:
+      - "peanut brittle"
+      - A Simple Expediency
+      - Belief in Proportion to the Evidence
+      - Boise
+      - Car Talk
+      - Coeur d'Alene
+      - Common Bond of Circumstance
+      - Commuted Sentence
+      - Doin' the Good Drive
+      - F-117 Stealth Nighthawk
+      - F-15 Eagle Crack (2nd pitch of Megamoto)
+      - F-16 Fighting Falcon
+      - F-18 Hornet
+      - F-22 Raptor
+      - Flight Path
+      - Idaho Falls
+      - Radio Free Kansas
+      - Return to Sender
+      - Sex in the Scrub Oak
+      - Stanley
+      - They Call the Wind  !&%
+      - Twin Falls
+
+164. The Hog Wart (Pine Creek Canyon)
+    Total Routes: 2
+    Ring Position: 332.4�
+    Average Coordinates: 36.12880, -115.48685
+    All Routes:
+      - Lake Mead Exotic Plant Control Crew
+      - Repeated Histrionics
+
+165. Stick Gully (Pine Creek Canyon)
+    Total Routes: 18
+    Ring Position: 333.1�
+    Average Coordinates: 36.12904, -115.48780
+    All Routes:
+      - Abstinence
+      - Awakening
+      - Casper the Friendly Offwidth
+      - Cinnamon Swirls
+      - Datura P2 Left Chimney
+      - Plato's Grotto
+      - Prelude
+      - Promote The Segmentation
+      - Sandstone Scofflaws
+      - Shadow Play
+      - Stick And Move
+      - Stick Left
+      - Stick Right
+      - Stickball
+      - The Stick-Slip Phenomenon
+      - Unknown
+      - Unknown
+      - You're Dreaming
+
+166. Straight Shooter Wall (Pine Creek Canyon)
+    Total Routes: 9
+    Ring Position: 339.4�
+    Average Coordinates: 36.12680, -115.48806
+    All Routes:
+      - 5.7 Freak Out
+      - Bird Crack
+      - Captain Crunch
+      - Crispy Critters
+      - Forget Me Knot
+      - Sidewinder
+      - Slabba Dabba Doo
+      - Straight Shooter
+      - The Lazy Fireman
+
+167. Beer and Ice Gully (Pine Creek Canyon)
+    Total Routes: 3
+    Ring Position: 340.9�
+    Average Coordinates: 36.12657, -115.48899
+    All Routes:
+      - Moisture Brau
+      - This Bud's For You
+      - Twentynine Posers
+
+168. Brass Wall (Pine Creek Canyon)
+    Total Routes: 21
+    Ring Position: 346.1�
+    Average Coordinates: 36.12521, -115.49109
+    All Routes:
+      - Alternative Facts
+      - Bird Cage
+      - Bus Stops Here
+      - Bush Pilots
+      - Chocolate Covered Bacon
+      - Cut Away
+      - Fungus folks
+      - Go Greyhound
+      - Mo (AKA Nowhere Man)
+      - Moons Way
+      - Mushroom People
+      - Mystery Mushroom?
+      - One Stop in Tonopah
+      - Psycho Date
+      - Rogue Fungus
+      - Shifting Narratives
+      - Simpatico
+      - Sky Dive
+      - Table Greens
+      - Topless Twins
+      - Varnishing Fact
+
+169. Out of Control Area (Pine Creek Canyon)
+    Total Routes: 7
+    Ring Position: 347.7�
+    Average Coordinates: 36.12527, -115.49419
+    All Routes:
+      - American Ninja
+      - Control Freak
+      - Indirect Proof
+      - Out of Control
+      - Overshoot
+      - Remote Control
+      - The Illusion of Control
+
+170. Dark Shadows Wall (Mescalito)
+    Total Routes: 4
+    Ring Position: 351.0�
+    Average Coordinates: 36.12399, -115.49506
+    All Routes:
+      - Extra Credit
+      - Sandstone Sandwich
+      - Short Circuit
+      - Slot Machine
+
+171. East Face (Mescalito)
+    Total Routes: 5
+    Ring Position: 352.4�
+    Average Coordinates: 36.12301, -115.49265
+    All Routes:
+      - Crunchy Cat
+      - Left of Disco
+      - Pauline's Pentacle
+      - This Ain't No Disco
+      - Too Many Tantrums
+
+172. South Face (Mescalito)
+    Total Routes: 2
+    Ring Position: 355.5�
+    Average Coordinates: 36.12182, -115.49314
+    All Routes:
+      - OB Button
+      - OB Fist
+
+173. Southeast Buttress (Mescalito)
+    Total Routes: 3
+    Ring Position: 355.5�
+    Average Coordinates: 36.12178, -115.49277
+    All Routes:
+      - Bed of Nails
+      - Cat in the Phat
+      - Rabbit's Arete
+
+174. North Face (Magic Mountain)
+    Total Routes: 7
+    Ring Position: 356.4�
+    Average Coordinates: 36.12126, -115.49023
+    All Routes:
+      - Andy & Jason's Mediocre Adventure
+      - Dark and Long
+      - Fido the Dragon
+      - Five and Dime
+      - Midnight Oil
+      - North Face | 9066
+      - Small Purchase
+
+175. East Face(aka Dependent Variable Area) (Magic Mountain)
+    Total Routes: 3
+    Ring Position: 356.7�
+    Average Coordinates: 36.12103, -115.48766
+    All Routes:
+      - Cold Blue Steel
+      - Dog Police
+      - The Soloist Crack
+
+176. Little Joe (Pine Creek Canyon)
+    Total Routes: 3
+    Ring Position: 358.3�
+    Average Coordinates: 36.12065, -115.49150
+    All Routes:
+      - Exsqueeze Me
+      - Six Flavors
+      - iPod
+

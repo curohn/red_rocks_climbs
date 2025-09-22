@@ -1,0 +1,131 @@
+RED ROCKS SCENIC LOOP - CLIMBING AREA ANALYSIS
+===============================================
+
+OVERVIEW:
+=========
+This analysis processes 1,000 climbing routes from Mountain Project data to:
+1. Determine the order of climbing areas along the Red Rocks Scenic Loop Drive
+2. Score areas based on climbing preferences for 5.7-5.10 grade climbers
+3. Categorize routes by type (trad vs sport) and difficulty grades
+4. Provide comprehensive area summaries for trip planning
+
+METHODOLOGY:
+============
+- Uses polar coordinate system centered at (36.12, -115.47) 
+- Calculates angular positions to sequence areas along the one-way scenic loop
+- 13-mile counter-clockwise drive starting from visitor center area
+- Targets the main Red Rocks Scenic Loop Drive (one-way scenic route)
+
+SCORING SYSTEM FOR AREA RANKING:
+================================
+Each route receives points based on climbing preferences:
+
+BASE SCORING:
+- Every climb: +1 point (base value)
+- Average star rating: +1 point per star (0-4 stars)
+
+DIFFICULTY BONUSES (tailored for 5.7-5.10 climbers):
+- Routes 5.7-5.10: +2 points (sweet spot difficulty)
+- Routes under 5.7: +1 point (warm-up/easy routes)
+- Routes over 5.10: +0 points (too difficult for target grade)
+
+ROUTE TYPE MODIFIERS:
+- Sport routes: +1 point (bolt protection, easier logistics)
+- Multi-pitch routes: -1 point (more time/complexity required)
+- Traditional routes: +0 points (neutral, gear-dependent)
+
+GRADE CATEGORIES:
+================
+Routes are categorized into difficulty bands:
+- 5.0-5.6: Beginner routes
+- 5.7-5.8: Intermediate (target sweet spot)
+- 5.9-5.10: Advanced (target sweet spot)  
+- 5.11: Expert level
+- 5.12+: Very advanced
+- Unknown: Missing or unclear grades
+
+KEY SECTIONS OF THE SCENIC LOOP:
+================================
+
+BEGINNING OF LOOP (Juniper Canyon area):
+- Jungle Wall (20 routes) - 15 trad, 3 sport - Score: 108.2
+- Rose Tower (4 routes) - All trad - Score: 19.4
+- Brownstone Wall (6 routes) - All trad - Score: 26.1
+- Jackrabbit Buttress (7 routes) - All trad - Score: 33.1
+
+MIDDLE SECTION (Black Velvet & First Creek Canyons):
+- Various Black Velvet Canyon walls (mixed trad/sport)
+- First Creek Canyon areas (primarily trad)
+- Mount Wilson areas (long traditional routes)
+
+CALICO BASIN SECTION (First Pullout area):
+- High concentration of sport routes (400+ routes)
+- Wake-Up Wall (24 routes) - 3 trad, 21 sport - Score: 131.3 (HIGHEST)
+- Panty Wall (21 routes) - 5 trad, 13 sport - Score: 117.1
+- Many beginner-friendly sport areas
+
+END OF LOOP (Willow Spring & Icebox areas):
+- Flight Path Area (22 routes) - All trad - Score: 115.0
+- Brass Wall (21 routes) - All trad - Score: 107.3
+- Sunnyside Crags (20 routes) - All trad - Score: 103.0
+- Pine Creek Canyon (mixed trad routes)
+
+TOP 10 HIGHEST SCORING AREAS:
+=============================
+1. Wake-Up Wall (Wake Up Wall Area) - 131.3 pts - 24 routes (3 trad, 21 sport)
+2. Panty Wall (First Pullout) - 117.1 pts - 21 routes (5 trad, 13 sport)
+3. Flight Path Area (Pine Creek) - 115.0 pts - 22 routes (22 trad, 0 sport)
+4. Jungle Wall (Juniper Canyon) - 108.2 pts - 20 routes (15 trad, 3 sport)
+5. Brass Wall (Pine Creek) - 107.3 pts - 21 routes (21 trad, 0 sport)
+6. Sunnyside Crags (Icebox) - 103.0 pts - 20 routes (20 trad, 0 sport)
+7. Ragged Edges Area (Willow Spring) - 97.6 pts - 20 routes (20 trad, 0 sport)
+8. Cactus Massacre (First Pullout) - 94.5 pts - 16 routes (1 trad, 15 sport)
+9. Civilization Crag (First Pullout) - 92.4 pts - 15 routes (2 trad, 13 sport)
+10. Stick Gully (Pine Creek) - 87.9 pts - 18 routes (17 trad, 0 sport)
+
+ROUTE TYPE DISTRIBUTION:
+=======================
+- Total areas analyzed: 176
+- Total routes: 1,000
+- Traditional routes: 545 (54.5%)
+- Sport routes: 423 (42.3%) 
+- Other route types: 32 (3.2% - mixed, aid, etc.)
+
+BEST AREAS BY ROUTE TYPE:
+========================
+
+TOP SPORT CLIMBING AREAS:
+- Wake-Up Wall: 21 sport routes
+- Southwest Wall: 15 sport routes (all sport)
+- Cactus Massacre: 15 sport routes
+- Rift Corridor - Left: 14 sport routes (all sport)
+- Civilization Crag: 13 sport routes
+
+TOP TRADITIONAL CLIMBING AREAS:
+- Flight Path Area: 22 trad routes (all trad)
+- Brass Wall: 21 trad routes (all trad)
+- Sunnyside Crags: 20 trad routes (all trad)
+- Ragged Edges Area: 20 trad routes (all trad)
+- Fixx Cliff: 17 trad routes
+
+GRADE DISTRIBUTION IN TOP AREAS:
+===============================
+Most high-scoring areas feature strong representation in the 5.7-5.10 range:
+- Wake-Up Wall: 3 routes (5.7-5.8), 11 routes (5.9-5.10), 6 routes (5.11)
+- Flight Path Area: 12 routes (5.7-5.8), 9 routes (5.9-5.10)
+- Panty Wall: 7 routes (5.7-5.8), 10 routes (5.9-5.10), 4 routes (5.11)
+
+TRIP PLANNING RECOMMENDATIONS:
+=============================
+- Average score per route across all areas: 5.17 points
+- Focus on areas with scores above 90 for optimal 5.7-5.10 climbing
+- Sport climbers: Concentrate on First Pullout (Calico Basin) section
+- Trad climbers: Pine Creek Canyon and Icebox Canyon offer excellent options
+- Mixed preferences: Wake-Up Wall and Jungle Wall provide both route types
+
+DATA FILES GENERATED:
+=====================
+1. red_rocks_routes_with_ring_position.csv - All 1,000 routes with ring road positions
+2. red_rocks_area_summary_scored.csv - 176 area summaries with scoring and analysis
+
+For detailed route information, see: ring_road_order_detailed.txt
