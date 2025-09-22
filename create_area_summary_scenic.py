@@ -148,8 +148,11 @@ def create_area_summary_scenic(csv_file):
         'Longitude': 'mean'
     }).round(4)
     
-    # Count routes by grade category
-    grade_counts = df.groupby(['Area', 'Canyon', 'grade_category']).size().unstack(fill_value=0)
+    # Filter out trad routes for grade category counting (only sport routes in grade summary)
+    sport_routes = df[df['Route Type'].str.contains('Sport', na=False)]
+    
+    # Count routes by grade category (sport routes only)
+    grade_counts = sport_routes.groupby(['Area', 'Canyon', 'grade_category']).size().unstack(fill_value=0)
     
     # Count routes by route type (trad vs sport)
     route_type_counts = df.groupby(['Area', 'Canyon', 'Route Type']).size().unstack(fill_value=0)
@@ -164,15 +167,30 @@ def create_area_summary_scenic(csv_file):
     # Count sport routes (anything containing "Sport")  
     sport_count['num_sport'] = route_type_counts.filter(regex='.*Sport.*', axis=1).sum(axis=1)
     
+    # Calculate average trad grade for each area
+    trad_routes = df[df['Route Type'].str.contains('Trad', na=False)]
+    trad_avg_grade = trad_routes.groupby(['Area', 'Canyon']).apply(
+        lambda group: group[group['Rating'].notna()]['Rating'].apply(parse_rating).mean()
+    ).to_frame('avg_trad_grade')
+    
+    # Convert numeric grade back to readable format (e.g., 9.5 -> "5.9+")
+    def format_grade(grade):
+        if pd.isna(grade) or grade == 0:
+            return "N/A"
+        return f"5.{int(grade)}" + ("+" if grade % 1 >= 0.5 else "")
+    
+    trad_avg_grade['avg_trad_grade'] = trad_avg_grade['avg_trad_grade'].apply(format_grade)
+    
     # Ensure all grade categories exist as columns
     for grade in ['5.0-5.6', '5.7-5.8', '5.9-5.10', '5.11', '5.12+', 'unknown']:
         if grade not in grade_counts.columns:
             grade_counts[grade] = 0
 
-    # Merge the grade counts and route type counts with area summary
+    # Merge the grade counts, route type counts, and trad avg grade with area summary
     area_summary = area_summary.join(grade_counts)
     area_summary = area_summary.join(trad_count)
     area_summary = area_summary.join(sport_count)
+    area_summary = area_summary.join(trad_avg_grade)
     
     # Rename columns
     area_summary = area_summary.rename(columns={
